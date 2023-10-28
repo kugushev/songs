@@ -7,3 +7,8 @@ A million lines of code and just one unit test.
 
 # Chorus
 I've got a new quest, Индусский Pull Request
+
+
+
+
+# Special: complain about code in Russian
